@@ -2,8 +2,8 @@
     width: 40vw;
     display: grid;
     grid-gap: 10px;
-    grid-template-columns: repeat(5, 50px);
-    grid-template-rows: repeat(5, 50px);
+    grid-template-columns: repeat(5, 15vw);
+    grid-template-rows: repeat(5, 15vw);
     grid-auto-flow: column;
 }
 .box {
